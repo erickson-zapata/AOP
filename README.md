@@ -8,3 +8,6 @@ Aspect Oriented Programming
 * Implemented basic Interceptor interface and supporting classes.
 
 * No optimization, still lots to do ^_^
+* 
+
+Note: Code written in Visual Studio Express 2013 (C#)
